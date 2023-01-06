@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Dream Mask song",
+    "description": "Dream Mask song do you like dream",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:dream_mask_song"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Just so you know",
+    "description": "Just so you know a rainimator song",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:just_so_you_know"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

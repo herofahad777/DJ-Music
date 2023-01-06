@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Vairo Nightmare",
+    "description": "Nightmare by vairo do you get nightmare",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:vairo_nightmare"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

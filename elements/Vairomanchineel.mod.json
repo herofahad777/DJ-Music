@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Vairo manchineel",
+    "description": "manchineel by vairo",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:vairo_manchineel"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Marshmello Alone",
+    "description": "Marshmello Alone by Marshmello",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:marshmello_alone"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

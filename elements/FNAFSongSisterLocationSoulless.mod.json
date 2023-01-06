@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "FNAF Song Sister Location Soulless",
+    "description": "FNAF Song Sister Location Soulles by Inferno Center",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:fnaf_song_sister_location_soulless"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

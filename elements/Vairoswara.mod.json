@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Vairo swara",
+    "description": "swara by vairo you will like this like airtel song",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:vairo_swara"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

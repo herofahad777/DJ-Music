@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Memory Bank",
+    "description": "Memory bank by dyro x conro",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:memory_bank"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

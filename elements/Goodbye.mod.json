@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Goodbye",
+    "description": "Goodbye a rainimator song",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:goodbye"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

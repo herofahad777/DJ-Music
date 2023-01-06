@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Legends Never Die",
+    "description": "Legends Never Die ",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:legends_never_die"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

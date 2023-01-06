@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "NIVRO The Apocalypse",
+    "description": "NIVRO-The Apocalypse by NCS",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:nivro_the_apocalypse"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

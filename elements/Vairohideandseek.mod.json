@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Vairo hide and seek",
+    "description": "hide and seek by vairo you wanna play hide and seek",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:vairo_hide_and_seek"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

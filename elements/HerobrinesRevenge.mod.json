@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Herobrines Revenge",
+    "description": "Herobrine's Revenge a minecraft song by Rainimator ",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:herobrines_revenge"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

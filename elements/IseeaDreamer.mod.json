@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "I see a Dreamer",
+    "description": "I see a Dreamer by CG5",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:i_see_a_dreamer"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

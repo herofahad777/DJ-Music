@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "BAZANJI Fed UP",
+    "description": "Bazanji Fed up song by Swagytracks ",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:fed_up"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

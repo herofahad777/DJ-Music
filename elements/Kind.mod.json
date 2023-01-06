@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "1 of a Kind",
+    "description": "1 of a Kind a minecraft song by Rainimator",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:kind"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,1151 @@
+{
+  "id_map": {
+    "ENTITY": 2,
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "Musicdisc",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "musicdisc"
+    },
+    {
+      "name": "Collapse",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "collapse"
+    },
+    {
+      "name": "MemoryBank",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "memory_bank"
+    },
+    {
+      "name": "Noisestorm",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "noisestorm"
+    },
+    {
+      "name": "Vairohideandseek",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vairohideandseek"
+    },
+    {
+      "name": "Vairoswara",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vairoswara"
+    },
+    {
+      "name": "VairoRaindance",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vairo_raindance"
+    },
+    {
+      "name": "Vairoscarab",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vairoscarab"
+    },
+    {
+      "name": "Vairomanchineel",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vairomanchineel"
+    },
+    {
+      "name": "VairoNightmare",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vairo_nightmare"
+    },
+    {
+      "name": "DreamMask",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dream_mask"
+    },
+    {
+      "name": "Disc",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "disc"
+    },
+    {
+      "name": "Hardpilltoswallow",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardpilltoswallow"
+    },
+    {
+      "name": "Goodbye",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goodbye"
+    },
+    {
+      "name": "Justsoyouknow",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "justsoyouknow"
+    },
+    {
+      "name": "Thestruggle",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thestruggle"
+    },
+    {
+      "name": "Nightmares",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nightmares"
+    },
+    {
+      "name": "Wearethedanger",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wearethedanger"
+    },
+    {
+      "name": "WingsofSalvation",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wingsof_salvation"
+    },
+    {
+      "name": "Witherheart",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "witherheart"
+    },
+    {
+      "name": "Wishingdead",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wishingdead"
+    },
+    {
+      "name": "Poison",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poison"
+    },
+    {
+      "name": "EnderWish",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_wish"
+    },
+    {
+      "name": "ColdasIce",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coldas_ice"
+    },
+    {
+      "name": "ColdasIceTheRemake",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coldas_ice_the_remake"
+    },
+    {
+      "name": "Kind",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kind"
+    },
+    {
+      "name": "BeginAgain",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "begin_again"
+    },
+    {
+      "name": "AChrismasSpecial",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "a_chrismas_special"
+    },
+    {
+      "name": "Falling",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falling"
+    },
+    {
+      "name": "Fracture",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fracture"
+    },
+    {
+      "name": "HerobrinesRevenge",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "herobrines_revenge"
+    },
+    {
+      "name": "TheLastEnderWatcher",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_last_ender_watcher"
+    },
+    {
+      "name": "Riseup",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "riseup"
+    },
+    {
+      "name": "BeAfraid",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "be_afraid"
+    },
+    {
+      "name": "BAZANJIFedUP",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bazanji_fed_up"
+    },
+    {
+      "name": "TheFatRatandAnjulieClosetothesun",
+      "type": "musicdisc",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_ratand_anjulie_closetothesun"
+    },
+    {
+      "name": "LegendsNeverDie",
+      "type": "musicdisc",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legends_never_die"
+    },
+    {
+      "name": "EllisOrbit",
+      "type": "musicdisc",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ellis_orbit"
+    },
+    {
+      "name": "MarshmelloAlone",
+      "type": "musicdisc",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marshmello_alone"
+    },
+    {
+      "name": "Saviourfthaneri",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saviourfthaneri"
+    },
+    {
+      "name": "JuliusDreisigandZeusXCronaInvisible",
+      "type": "musicdisc",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "julius_dreisigand_zeus_x_crona_invisible"
+    },
+    {
+      "name": "VicetoneNevada",
+      "type": "musicdisc",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vicetone_nevada"
+    },
+    {
+      "name": "Ping",
+      "type": "musicdisc",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ping"
+    },
+    {
+      "name": "Lying2Me",
+      "type": "musicdisc",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lying_2_me"
+    },
+    {
+      "name": "LifeisFun",
+      "type": "musicdisc",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lifeis_fun"
+    },
+    {
+      "name": "IseeaDreamer",
+      "type": "musicdisc",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iseea_dreamer"
+    },
+    {
+      "name": "CartoonOnandOn",
+      "type": "musicdisc",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cartoon_onand_on"
+    },
+    {
+      "name": "JettSingsASong",
+      "type": "musicdisc",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jett_sings_a_song"
+    },
+    {
+      "name": "NIVROTheApocalypse",
+      "type": "musicdisc",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nivro_the_apocalypse"
+    },
+    {
+      "name": "TheFatRatandCecilliaGault",
+      "type": "musicdisc",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_ratand_cecillia_gault"
+    },
+    {
+      "name": "WarriyoMortals",
+      "type": "musicdisc",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warriyo_mortals"
+    },
+    {
+      "name": "ElektronomiaSkyHigh",
+      "type": "musicdisc",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elektronomia_sky_high"
+    },
+    {
+      "name": "FNAFSongSisterLocationSoulless",
+      "type": "musicdisc",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fnaf_song_sister_location_soulless"
+    },
+    {
+      "name": "JPBHigh",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jpb_high"
+    },
+    {
+      "name": "KDrewCircles",
+      "type": "musicdisc",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "k_drew_circles"
+    },
+    {
+      "name": "TheFatRatRiseUp",
+      "type": "musicdisc",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_fat_rat_rise_up"
+    },
+    {
+      "name": "Saadshield",
+      "type": "mob",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1,
+        "1": 2
+      },
+      "registry_name": "saadshield"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "collaspe",
+      "files": [
+        "menu1"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "memory_bank",
+      "files": [
+        "dyro_x_conro_-_memory_bank_monstercat_official_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "noisestorm",
+      "files": [
+        "noisestorm_-_crab_rave_monstercat_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vairo_hide_and_seek",
+      "files": [
+        "vairo_-_hide_and_seek"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vairo_manchineel",
+      "files": [
+        "vairo_-_manchineel"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vairo_nightmare",
+      "files": [
+        "vairo_-_nightmare_official_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vairo_raindance",
+      "files": [
+        "vairo_-_raindance_official_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vairo_scarab",
+      "files": [
+        "vairo_-_scarab"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vairo_swara",
+      "files": [
+        "vairo_-_swara"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "dream_mask_song",
+      "files": [
+        "dream_-_mask",
+        "dream_-_mask_official_lyric_video_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "wither_heart",
+      "files": [
+        "wither_heart_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "wishing_dead",
+      "files": [
+        "wishing_dead_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "wings_of_salvation",
+      "files": [
+        "wings_of_salvation_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "we_are_the_danger",
+      "files": [
+        "we_are_the_danger_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "the_struggle",
+      "files": [
+        "the_struggle_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "poison",
+      "files": [
+        "poison_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "nightmares",
+      "files": [
+        "nightmares_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "just_so_you_know",
+      "files": [
+        "just_so_you_know_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "hard_pill_to_swallow",
+      "files": [
+        "hard_pill_to_swallow_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "goodbye",
+      "files": [
+        "goodbye_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "ender_wish",
+      "files": [
+        "ender_wish_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "cold_as_ice",
+      "files": [
+        "cold_as_ice_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "cold_as_ice_the_remake",
+      "files": [
+        "cold_as_ice_the_remake_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "begin_again",
+      "files": [
+        "begin_again_-_a_minecraft_original_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "kind",
+      "files": [
+        "1_of_a_kind_-_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "a_christmas_special",
+      "files": [
+        "a_christmas_special_-_minecraft_animation_rainimator__thebluejerome_crossover_-_part_1"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "falling",
+      "files": [
+        "falling_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "fractures",
+      "files": [
+        "fractures_-_a_minecraft_movie_2018_-_trailer"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "herobrines_revenge",
+      "files": [
+        "herobrines_revenge_-_rainimator_full_season_1_movie_official_minecraft_music_video_compilat"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "the_last_ender_watcher",
+      "files": [
+        "the_last_ender_watcher_-_rainimator_season_2_full_movie_minecraft_music_video_compilation"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "riseup",
+      "files": [
+        "thefatrat_-_rise_up"
+      ],
+      "category": "music",
+      "subtitle": "Rise Up"
+    },
+    {
+      "name": "be_afraid",
+      "files": [
+        "be_afraid_-_a_minecraft_music_video_online-audio-converter.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "fed_up",
+      "files": [
+        "bazanji_-_fed_up"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "thefatrat_and_anjulie_close_to_the_sun",
+      "files": [
+        "thefatrat__anjulie_-_close_to_the_sun"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "legends_never_die",
+      "files": [
+        "legends_never_die_ft._against_the_currentworlds_2017_-_league_of_legends"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "ellis-orbit",
+      "files": [
+        "ellis_-_orbit_monstercat_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "marshmello_alone",
+      "files": [
+        "marshmello_-_alone_official_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "saviour_ft_haneri",
+      "files": [
+        "saviour_ft_haneri_rocket_league_new_song_2021"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "julius_dreisig_and_zeus_x_crona_invisible",
+      "files": [
+        "julius_dreisig__zeus_x_crona_-_invisible_ncs_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "vicetone_nevada",
+      "files": [
+        "vicetone_-_nevada_ft._cozi_zuehlsdorff_rocket_league_10yr_monstercat"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "ping",
+      "files": [
+        "ping"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "lying_2_me",
+      "files": [
+        "lyin_2_me_-_among_us_song"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "life_is_fun",
+      "files": [
+        "la_vie_est_amusante_-_ft._boyinaband_video_officielle"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "i_see_a_dreamer",
+      "files": [
+        "i_see_a_dreamer_dream_team_original_song"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "cartoon_on_and_on",
+      "files": [
+        "cartoon_-_on__on_feat._daniel_levi_ncs_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "jett_sings_a_song",
+      "files": [
+        "jett_sings_a_song"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "nivro_the_apocalypse",
+      "files": [
+        "niviro_-_the_apocalypse_ncs_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "thefatrat_and_cecillia_gault",
+      "files": [
+        "thefatrat__cecilia_gault_-_our_song_-_a_minecraft_music_video"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "warriyo_mortals",
+      "files": [
+        "warriyo_-_mortals_feat._laura_brehm_ncs_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "elektronomia_sky_high",
+      "files": [
+        "elektronomia_-_sky_high_ncs_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "fnaf_song_sister_location_soulless",
+      "files": [
+        "fnaf_song_-_sister_location_soulless_-_five_nights_at_freddys_animation_song"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "jpb_high",
+      "files": [
+        "jpb_-_high_ncs_release"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "kdrew_circles",
+      "files": [
+        "kdrew_-_circles_original_mix"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "thefatrat_rise_up",
+      "files": [
+        "thefatrat_-_rise_up"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.thestruggle.name": "The struggle",
+      "subtitles.julius_dreisig_and_zeus_x_crona_invisible": "",
+      "item.disc.name": "Disc",
+      "subtitles.life_is_fun": "",
+      "subtitles.thefatrat_and_anjulie_close_to_the_sun": "",
+      "subtitles.vairo_nightmare": "",
+      "subtitles.fractures": "",
+      "item.a_chrismas_special.name": "A Christmas Special",
+      "subtitles.elektronomia_sky_high": "",
+      "item.herobrines_revenge.name": "Herobrines Revenge",
+      "item.record.iseea_dreamer.desc": "I see a Dreamer by CG5",
+      "subtitles.thefatrat_rise_up": "",
+      "item.record.thestruggle.desc": "The struggle a rainimator song",
+      "item.record.ender_wish.desc": "Ender Wish A minecraft song by Rainimator",
+      "subtitles.wishing_dead": "",
+      "item.record.kind.desc": "1 of a Kind a minecraft song by Rainimator",
+      "subtitles.vairo_hide_and_seek": "",
+      "subtitles.be_afraid": "",
+      "item.record.collapse.desc": "Collaspe new rocket league song",
+      "subtitles.herobrines_revenge": "",
+      "item.record.nightmares.desc": "Nightmares a rainimator song",
+      "item.vairomanchineel.name": "Vairo manchineel",
+      "item.record.lying_2_me.desc": "Lying 2 Me song by CG5",
+      "item.collapse.name": "Collapse",
+      "subtitles.noisestorm": "",
+      "subtitles.ping": "",
+      "item.the_last_ender_watcher.name": "The Last Ender Watcher",
+      "subtitles.falling": "",
+      "item.justsoyouknow.name": "Just so you know",
+      "item.coldas_ice_the_remake.name": "Cold as Ice The Remake",
+      "item.nivro_the_apocalypse.name": "NIVRO The Apocalypse",
+      "item.wingsof_salvation.name": "Wings of Salvation",
+      "item.begin_again.name": "Begin Again",
+      "subtitles.hard_pill_to_swallow": "",
+      "subtitles.vairo_manchineel": "",
+      "item.record.dream_mask.desc": "Dream Mask song do you like dream",
+      "item.legends_never_die.name": "Legends Never Die",
+      "item.record.vairo_nightmare.desc": "Nightmare by vairo do you get nightmare",
+      "subtitles.vairo_swara": "",
+      "item.record.the_fat_ratand_anjulie_closetothesun.desc": "TheFatRat and Anjulie Close to the sun",
+      "item.cartoon_onand_on.name": "Cartoon On and On",
+      "item.record.the_last_ender_watcher.desc": "The Last Ender Watcher a minecraft song by Rainimator ",
+      "item.record.saviourfthaneri.desc": "Saviour ft haneri by Rocket league",
+      "subtitles.warriyo_mortals": "",
+      "subtitles.collaspe": "",
+      "subtitles.nightmares": "",
+      "subtitles.i_see_a_dreamer": "",
+      "subtitles.jett_sings_a_song": "",
+      "item.ender_wish.name": "Ender Wish",
+      "subtitles.kind": "",
+      "subtitles.kdrew_circles": "",
+      "subtitles.fed_up": "",
+      "subtitles.legends_never_die": "",
+      "item.nightmares.name": "Nightmares",
+      "item.witherheart.name": "Wither heart",
+      "item.record.be_afraid.desc": "Be Afraid a minecraft song by rainimator",
+      "item.record.k_drew_circles.desc": "KDrew Circles by KDrew",
+      "item.record.hardpilltoswallow.desc": "Hard pill to swallow a rainimator song",
+      "item.record.bazanji_fed_up.desc": "Bazanji Fed up song by Swagytracks ",
+      "subtitles.cartoon_on_and_on": "",
+      "item.record.begin_again.desc": "Begin Again a minecraft song by Rainimator",
+      "subtitles.nivro_the_apocalypse": "",
+      "item.record.coldas_ice_the_remake.desc": "Cold as Ice The Remake A minecraft song by Rainimator       ",
+      "item.record.riseup.desc": "Rise up by TheFatRat",
+      "subtitles.fnaf_song_sister_location_soulless": "",
+      "item.vairoscarab.name": "Vairo scarab",
+      "subtitles.the_last_ender_watcher": "",
+      "item.fracture.name": "Fracture",
+      "item.ellis_orbit.name": "Ellis Orbit",
+      "subtitles.lying_2_me": "",
+      "item.elektronomia_sky_high.name": "Elektronomia Sky High",
+      "item.jpb_high.name": "JPB High",
+      "item.bazanji_fed_up.name": "BAZANJI Fed UP",
+      "item.vairohideandseek.name": "Vairo hide and seek",
+      "subtitles.memory_bank": "",
+      "item.vairo_raindance.name": "Vairo Raindance",
+      "item.jett_sings_a_song.name": "Jett Sings A Song",
+      "item.saviourfthaneri.name": "Saviour ft haneri",
+      "subtitles.poison": "",
+      "item.record.the_fat_rat_rise_up.desc": "TheFatRat Rise Up By TheFatRat",
+      "subtitles.vicetone_nevada": "",
+      "itemGroup.tabmusicdisc": "Music disc",
+      "item.record.a_chrismas_special.desc": "A Christmas Special a minecraft song by Rainimator   ",
+      "item.fnaf_song_sister_location_soulless.name": "FNAF Song Sister Location Soulless",
+      "item.vairo_nightmare.name": "Vairo Nightmare",
+      "subtitles.riseup": "Rise Up",
+      "item.poison.name": "Poison",
+      "subtitles.jpb_high": "",
+      "item.record.vairomanchineel.desc": "manchineel by vairo",
+      "item.record.vairohideandseek.desc": "hide and seek by vairo you wanna play hide and seek",
+      "subtitles.cold_as_ice": "",
+      "item.k_drew_circles.name": "KDrew Circles",
+      "item.record.wearethedanger.desc": "We are the danger a rainimator song",
+      "item.wearethedanger.name": "We are the danger",
+      "item.record.wishingdead.desc": "Wishing dead a rainimator song",
+      "item.record.herobrines_revenge.desc": "Herobrine\u0027s Revenge a minecraft song by Rainimator ",
+      "item.vicetone_nevada.name": "Vicetone Nevada",
+      "subtitles.marshmello_alone": "",
+      "item.wishingdead.name": "Wishing dead",
+      "item.record.lifeis_fun.desc": "Life is Fun Ft. Boyinal by TheOdd1sout",
+      "item.lifeis_fun.name": "Life is Fun Ft. Boyinal",
+      "item.memory_bank.name": "Memory Bank",
+      "item.the_fat_rat_rise_up.name": "TheFatRat Rise Up",
+      "item.record.marshmello_alone.desc": "Marshmello Alone by Marshmello",
+      "item.record.cartoon_onand_on.desc": "Cartoon On \u0026 On by NCS",
+      "subtitles.begin_again": "",
+      "item.riseup.name": "Rise up",
+      "subtitles.dream_mask_song": "",
+      "item.julius_dreisigand_zeus_x_crona_invisible.name": "Julius Dreisig and Zeus X Crona Invisible",
+      "subtitles.vairo_scarab": "",
+      "subtitles.vairo_raindance": "",
+      "entity.saadshield.name": "Saadshield",
+      "item.be_afraid.name": "Be Afraid",
+      "item.iseea_dreamer.name": "I see a Dreamer",
+      "item.record.warriyo_mortals.desc": "Warriyo - Mortals by NCS",
+      "subtitles.wither_heart": "",
+      "item.record.nivro_the_apocalypse.desc": "NIVRO-The Apocalypse by NCS",
+      "item.record.elektronomia_sky_high.desc": "Elektronomia Sky High by NCS",
+      "subtitles.ender_wish": "",
+      "item.record.fnaf_song_sister_location_soulless.desc": "FNAF Song Sister Location Soulles by Inferno Center",
+      "item.record.poison.desc": "Poison a rainimator song",
+      "item.kind.name": "1 of a Kind",
+      "item.record.ellis_orbit.desc": "Ellis Orbit by Monster cat uncaged",
+      "item.record.julius_dreisigand_zeus_x_crona_invisible.desc": "Julius Dreisig and Zeus X Crona Invisible [NCS release]",
+      "item.dream_mask.name": "Dream Mask song",
+      "item.record.vairo_raindance.desc": "Raindance by Vairo lets dance",
+      "subtitles.goodbye": "",
+      "item.the_fat_ratand_anjulie_closetothesun.name": "TheFatRat and Anjulie Close to the sun",
+      "item.vairoswara.name": "Vairo swara",
+      "item.record.legends_never_die.desc": "Legends Never Die ",
+      "item.warriyo_mortals.name": "Warriyo Mortals",
+      "item.record.goodbye.desc": "Goodbye a rainimator song",
+      "subtitles.wings_of_salvation": "",
+      "item.record.vairoscarab.desc": "scarab by vairo",
+      "item.hardpilltoswallow.name": "Hard pill to swallow",
+      "item.record.coldas_ice.desc": "Cold as Ice A minecraft son by Rainimator",
+      "subtitles.cold_as_ice_the_remake": "",
+      "item.record.falling.desc": "Falling a minecraft song by Rainimator",
+      "item.marshmello_alone.name": "Marshmello Alone",
+      "subtitles.saviour_ft_haneri": "",
+      "item.ping.name": "Ping discord",
+      "item.record.memory_bank.desc": "Memory bank by dyro x conro",
+      "subtitles.the_struggle": "",
+      "item.coldas_ice.name": "Cold as Ice",
+      "item.lying_2_me.name": "Lying 2 Me",
+      "item.record.justsoyouknow.desc": "Just so you know a rainimator song",
+      "item.record.vairoswara.desc": "swara by vairo you will like this like airtel song",
+      "item.record.the_fat_ratand_cecillia_gault.desc": "TheFatRat and Cecillia Gault by Ranimator",
+      "item.goodbye.name": "Goodbye",
+      "item.noisestorm.name": "Noisestorm crab rave",
+      "subtitles.we_are_the_danger": "",
+      "item.record.witherheart.desc": "Wither heart a rainimator song",
+      "subtitles.just_so_you_know": "",
+      "item.falling.name": "Falling",
+      "subtitles.ellis-orbit": "",
+      "item.record.jett_sings_a_song.desc": "Jett Sings A Song by Surrendead",
+      "item.record.wingsof_salvation.desc": "Wings of Salvation a rainimator song",
+      "subtitles.a_christmas_special": "",
+      "subtitles.thefatrat_and_cecillia_gault": "",
+      "item.record.ping.desc": "Ping! song by Exyl",
+      "item.record.noisestorm.desc": "crab rave by vairo",
+      "item.record.jpb_high.desc": "JPB High by NCS",
+      "item.record.vicetone_nevada.desc": "Vicetone Nevada by Monster cat",
+      "item.the_fat_ratand_cecillia_gault.name": "TheFatRat and Cecillia Gault A minecraft song",
+      "item.record.fracture.desc": "Fracture a minecraft song by Rainimator"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dj_music",
+    "modName": "DJ_Music",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.djmusic",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

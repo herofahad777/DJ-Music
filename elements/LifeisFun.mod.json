@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Life is Fun Ft. Boyinal",
+    "description": "Life is Fun Ft. Boyinal by TheOdd1sout",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:life_is_fun"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

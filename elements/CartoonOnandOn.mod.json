@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Cartoon On and On",
+    "description": "Cartoon On & On by NCS",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:cartoon_on_and_on"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

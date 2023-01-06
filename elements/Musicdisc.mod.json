@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Music disc",
+    "icon": {
+      "value": "Items.RECORD_WAIT"
+    },
+    "showSearch": false
+  }
+}

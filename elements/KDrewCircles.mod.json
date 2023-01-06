@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "KDrew Circles",
+    "description": "KDrew Circles by KDrew",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:kdrew_circles"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

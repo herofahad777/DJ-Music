@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Ping discord",
+    "description": "Ping! song by Exyl",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:ping"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

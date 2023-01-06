@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Lying 2 Me",
+    "description": "Lying 2 Me song by CG5",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:lying_2_me"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

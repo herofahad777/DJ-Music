@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Begin Again",
+    "description": "Begin Again a minecraft song by Rainimator",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:begin_again"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "A Christmas Special",
+    "description": "A Christmas Special a minecraft song by Rainimator   ",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:a_christmas_special"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

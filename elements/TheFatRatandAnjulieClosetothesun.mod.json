@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "TheFatRat and Anjulie Close to the sun",
+    "description": "TheFatRat and Anjulie Close to the sun",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:thefatrat_and_anjulie_close_to_the_sun"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

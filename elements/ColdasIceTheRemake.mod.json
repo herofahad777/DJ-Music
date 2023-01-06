@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Cold as Ice The Remake",
+    "description": "Cold as Ice The Remake A minecraft song by Rainimator       ",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:cold_as_ice_the_remake"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

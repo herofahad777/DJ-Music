@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Wings of Salvation",
+    "description": "Wings of Salvation a rainimator song",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:wings_of_salvation"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

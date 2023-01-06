@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Julius Dreisig and Zeus X Crona Invisible",
+    "description": "Julius Dreisig and Zeus X Crona Invisible [NCS release]",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:julius_dreisig_and_zeus_x_crona_invisible"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

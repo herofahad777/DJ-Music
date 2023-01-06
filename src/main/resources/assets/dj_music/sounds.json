@@ -1,0 +1,493 @@
+{
+  "collaspe": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:menu1",
+        "stream": false
+      }
+    ]
+  },
+  "memory_bank": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:dyro_x_conro_-_memory_bank_monstercat_official_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "noisestorm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:noisestorm_-_crab_rave_monstercat_release",
+        "stream": false
+      }
+    ]
+  },
+  "vairo_hide_and_seek": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vairo_-_hide_and_seek",
+        "stream": false
+      }
+    ]
+  },
+  "vairo_manchineel": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vairo_-_manchineel",
+        "stream": false
+      }
+    ]
+  },
+  "vairo_nightmare": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vairo_-_nightmare_official_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "vairo_raindance": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vairo_-_raindance_official_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "vairo_scarab": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vairo_-_scarab",
+        "stream": false
+      }
+    ]
+  },
+  "vairo_swara": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vairo_-_swara",
+        "stream": false
+      }
+    ]
+  },
+  "dream_mask_song": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:dream_-_mask",
+        "stream": false
+      },
+      {
+        "name": "dj_music:dream_-_mask_official_lyric_video_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "wither_heart": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:wither_heart_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "wishing_dead": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:wishing_dead_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "wings_of_salvation": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:wings_of_salvation_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "we_are_the_danger": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:we_are_the_danger_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "the_struggle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:the_struggle_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "poison": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:poison_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "nightmares": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:nightmares_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "just_so_you_know": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:just_so_you_know_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "hard_pill_to_swallow": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:hard_pill_to_swallow_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "goodbye": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:goodbye_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "ender_wish": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:ender_wish_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "cold_as_ice": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:cold_as_ice_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "cold_as_ice_the_remake": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:cold_as_ice_the_remake_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "begin_again": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:begin_again_-_a_minecraft_original_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "kind": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:1_of_a_kind_-_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "a_christmas_special": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:a_christmas_special_-_minecraft_animation_rainimator__thebluejerome_crossover_-_part_1",
+        "stream": false
+      }
+    ]
+  },
+  "falling": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:falling_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "fractures": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:fractures_-_a_minecraft_movie_2018_-_trailer",
+        "stream": false
+      }
+    ]
+  },
+  "herobrines_revenge": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:herobrines_revenge_-_rainimator_full_season_1_movie_official_minecraft_music_video_compilat",
+        "stream": false
+      }
+    ]
+  },
+  "the_last_ender_watcher": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:the_last_ender_watcher_-_rainimator_season_2_full_movie_minecraft_music_video_compilation",
+        "stream": false
+      }
+    ]
+  },
+  "riseup": {
+    "category": "music",
+    "subtitle": "subtitles.riseup",
+    "sounds": [
+      {
+        "name": "dj_music:thefatrat_-_rise_up",
+        "stream": true
+      }
+    ]
+  },
+  "be_afraid": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:be_afraid_-_a_minecraft_music_video_online-audio-converter.com",
+        "stream": false
+      }
+    ]
+  },
+  "fed_up": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:bazanji_-_fed_up",
+        "stream": false
+      }
+    ]
+  },
+  "thefatrat_and_anjulie_close_to_the_sun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:thefatrat__anjulie_-_close_to_the_sun",
+        "stream": false
+      }
+    ]
+  },
+  "legends_never_die": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:legends_never_die_ft._against_the_currentworlds_2017_-_league_of_legends",
+        "stream": false
+      }
+    ]
+  },
+  "ellis-orbit": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:ellis_-_orbit_monstercat_release",
+        "stream": false
+      }
+    ]
+  },
+  "marshmello_alone": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:marshmello_-_alone_official_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "saviour_ft_haneri": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:saviour_ft_haneri_rocket_league_new_song_2021",
+        "stream": false
+      }
+    ]
+  },
+  "julius_dreisig_and_zeus_x_crona_invisible": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:julius_dreisig__zeus_x_crona_-_invisible_ncs_release",
+        "stream": false
+      }
+    ]
+  },
+  "vicetone_nevada": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:vicetone_-_nevada_ft._cozi_zuehlsdorff_rocket_league_10yr_monstercat",
+        "stream": false
+      }
+    ]
+  },
+  "ping": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:ping",
+        "stream": false
+      }
+    ]
+  },
+  "lying_2_me": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:lyin_2_me_-_among_us_song",
+        "stream": false
+      }
+    ]
+  },
+  "life_is_fun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:la_vie_est_amusante_-_ft._boyinaband_video_officielle",
+        "stream": false
+      }
+    ]
+  },
+  "i_see_a_dreamer": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:i_see_a_dreamer_dream_team_original_song",
+        "stream": false
+      }
+    ]
+  },
+  "cartoon_on_and_on": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:cartoon_-_on__on_feat._daniel_levi_ncs_release",
+        "stream": false
+      }
+    ]
+  },
+  "jett_sings_a_song": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:jett_sings_a_song",
+        "stream": false
+      }
+    ]
+  },
+  "nivro_the_apocalypse": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:niviro_-_the_apocalypse_ncs_release",
+        "stream": false
+      }
+    ]
+  },
+  "thefatrat_and_cecillia_gault": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:thefatrat__cecilia_gault_-_our_song_-_a_minecraft_music_video",
+        "stream": false
+      }
+    ]
+  },
+  "warriyo_mortals": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:warriyo_-_mortals_feat._laura_brehm_ncs_release",
+        "stream": false
+      }
+    ]
+  },
+  "elektronomia_sky_high": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:elektronomia_-_sky_high_ncs_release",
+        "stream": false
+      }
+    ]
+  },
+  "fnaf_song_sister_location_soulless": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:fnaf_song_-_sister_location_soulless_-_five_nights_at_freddys_animation_song",
+        "stream": false
+      }
+    ]
+  },
+  "jpb_high": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:jpb_-_high_ncs_release",
+        "stream": false
+      }
+    ]
+  },
+  "kdrew_circles": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:kdrew_-_circles_original_mix",
+        "stream": false
+      }
+    ]
+  },
+  "thefatrat_rise_up": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dj_music:thefatrat_-_rise_up",
+        "stream": false
+      }
+    ]
+  }
+}

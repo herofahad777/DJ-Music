@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Cold as Ice",
+    "description": "Cold as Ice A minecraft son by Rainimator",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:cold_as_ice"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

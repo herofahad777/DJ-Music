@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Hard pill to swallow",
+    "description": "Hard pill to swallow a rainimator song",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:hard_pill_to_swallow"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

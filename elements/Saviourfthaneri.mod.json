@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Saviour ft haneri",
+    "description": "Saviour ft haneri by Rocket league",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:saviour_ft_haneri"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

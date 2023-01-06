@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "TheFatRat and Cecillia Gault A minecraft song",
+    "description": "TheFatRat and Cecillia Gault by Ranimator",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:thefatrat_and_cecillia_gault"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Warriyo Mortals",
+    "description": "Warriyo - Mortals by NCS",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:warriyo_mortals"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

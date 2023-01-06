@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "TheFatRat Rise Up",
+    "description": "TheFatRat Rise Up By TheFatRat",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:thefatrat_rise_up"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

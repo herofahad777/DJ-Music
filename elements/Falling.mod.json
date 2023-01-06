@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_2",
+    "name": "Falling",
+    "description": "Falling a minecraft song by Rainimator",
+    "creativeTab": {
+      "value": "CUSTOM:Musicdisc"
+    },
+    "music": {
+      "value": "CUSTOM:falling"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
